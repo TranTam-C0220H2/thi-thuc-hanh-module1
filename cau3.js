@@ -1,5 +1,5 @@
 function isFibonacci(isIntNumber, arrayFibonacci) {
-    isIntNumber = +prompt('Nhập số nguyên: ');
+    isIntNumber = prompt('Nhập số nguyên: ');
     arrayFibonacci = Array();
     arrayFibonacci[0] = 0;
     arrayFibonacci[1] = 1;
